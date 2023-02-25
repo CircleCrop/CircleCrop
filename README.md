@@ -7,8 +7,6 @@
 ## Device's System 💻
 [![Android](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
-------
-
 ## Tools I create with 🔧
 ### <img src="https://skillicons.dev/icons?i=pr,ae,ps,au,blender,github"> **etc.** 
 
