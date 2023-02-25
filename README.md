@@ -33,4 +33,4 @@
 ## Ongoing research 🔭
 
 - 🤖 AI singing
-- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/Blender-Dark.svg" width="3%" height="3%">Blender Learning
+- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/Blender-Dark.svg" width="3%" height="3%"> Blender Learning
