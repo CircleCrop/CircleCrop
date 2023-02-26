@@ -4,7 +4,7 @@
 
 *I am an 18-year-old boy from China who likes photography, music and ACGN.*
 
-##System 💻
+## System 💻
 [![Android](https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 
 ## Tools 🔧
