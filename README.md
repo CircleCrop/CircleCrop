@@ -23,12 +23,3 @@
 ### Social Media 📱
 
 ​	**Youtube**: [AICCrop - YouTube](https://www.youtube.com/@aiccrop)
-
-​	**Twitter**: [AICCrop (@AICCrop) / Twitter](https://twitter.com/AICCrop)
-
-​	**Bilibili**: [怪圈迷 AICCrop 的个人空间](https://space.bilibili.com/10540662)
-
-## Ongoing research 🔭
-
-- 🤖 AI singing
-- <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@latest/icons/Blender-Dark.svg" width="3%" height="3%"> Blender Learning
