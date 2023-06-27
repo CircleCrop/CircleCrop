@@ -9,7 +9,7 @@
 ### <img src="https://skillicons.dev/icons?i=pr,ae,ps,au,blender,github"> **etc.** 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=tokyonight) 
+![CircleCrop's github stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=tokyonight) 
 
 ## Contact 🌐
 
