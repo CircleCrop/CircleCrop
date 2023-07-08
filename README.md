@@ -22,8 +22,8 @@ _Always on the way._
 
 &emsp;**Youtube**: [AICCrop - YouTube](https://www.youtube.com/@aiccrop)
 
-&emsp;**Steam:** [Steam Community :: CropCircle]https://aiccrop.com/s/OxOC)
+&emsp;**Steam:** [Steam Community :: CropCircle](https://aiccrop.com/s/OxOC)
 
-&emsp;**Github:** [CircleCrop · GitHub]https://aiccrop.com/s/DOYs)
+&emsp;**Github:** [CircleCrop · GitHub](https://aiccrop.com/s/DOYs)
 
-&emsp;**Twitter:** [AICCrop (@AICCrop) / Twitter]https://aiccrop.com/s/R5Bv)
+&emsp;**Twitter:** [AICCrop (@AICCrop) / Twitter](https://aiccrop.com/s/R5Bv)
