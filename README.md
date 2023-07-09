@@ -8,7 +8,9 @@ _Always on the way._
 
 ## Tools 🔧
 
-![Skill Icons](https://aiccrop.com/wp-content/uploads/2023/07/bd21190449b7e88db48f-1.svg) **etc.**
+![Skill Icons](https://aiccrop.com/wp-content/uploads/2023/07/2857cd3cbd4a95060369.svg)
+
+**etc.**
 
 ![CircleCrop's github stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=tokyonight)
 
