@@ -22,10 +22,10 @@ _Always on the way._
 
 ### Social Media 📱
 
-&emsp;**Youtube**: [AICCrop - YouTube](https://www.youtube.com/@aiccrop)
+&emsp;**Youtube**: [AICCrop - YouTube](http://ccrop.link/Ksak)
 
-&emsp;**Steam:** [Steam Community :: CropCircle](https://aiccrop.com/s/OxOC)
+&emsp;**Steam:** [Steam Community :: CropCircle](http://ccrop.link/R7Ro)
 
-&emsp;**Github:** [CircleCrop · GitHub](https://aiccrop.com/s/DOYs)
+&emsp;**Github:** [CircleCrop · GitHub](http://ccrop.link/9jSc)
 
-&emsp;**Twitter:** [AICCrop (@AICCrop) / Twitter](https://aiccrop.com/s/R5Bv)
+&emsp;**Twitter:** [AICCrop (@AICCrop) / Twitter](http://ccrop.link/fPtS)
