@@ -12,7 +12,7 @@ _Always on the way._
 
 **etc.**
 
-![CircleCrop's github stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=tokyonight)
+![CircleCrop's github stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=dark&locale=cn)
 
 ## Contact 🌐
 
