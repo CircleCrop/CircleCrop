@@ -16,7 +16,3 @@
 ## Tools
 
 ![Skill Icons](https://aiccrop.com/wp-content/uploads/2023/07/bd21190449b7e88db48f.svg)&emsp;**etc.**
-
-## Contact
-
-circlecrop@outlook.com
