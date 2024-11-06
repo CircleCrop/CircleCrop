@@ -9,11 +9,7 @@
 
 ![CircleCrop's Github Stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent)
 
-## System
 
-[![Android](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-13/)&emsp;![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5?style=for-the-badge&logo=windows&logoColor=white)&emsp;![Debian](https://img.shields.io/badge/Debian%2012-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+## Skills
 
-## Tools
-Needs to update (in To Do lists).
-
-![Skill Icons](https://aiccrop.com/wp-content/uploads/2023/07/bd21190449b7e88db48f.svg)&emsp;**etc.**
+![Skill Icons](https://aiccrop.com/wp-content/uploads/2024/11/00000fbe-0ff9-75b7-47d3-8b80481c7d6f.svg)
