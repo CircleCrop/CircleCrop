@@ -4,12 +4,13 @@
 >
 >_问征夫以前路，恨晨光之熹微。_
 
+### _Girlfriend: [Shinonome Ena](https://sekai.best/chara/19)_
 
-## Github Stats
+## Stats
 
 ![CircleCrop's Github Stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent)
 
 
-## Skills
+## Tools
 
 ![Skill Icons](https://aiccrop.com/wp-content/uploads/2024/11/00000fbe-0ff9-75b7-47d3-8b80481c7d6f.svg)
