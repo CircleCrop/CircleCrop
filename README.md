@@ -4,7 +4,7 @@
 >
 >_问征夫以前路，恨晨光之熹微。_
 
-### _Girlfriend: [Shinonome Ena](https://sekai.best/chara/19)_
+### _Girlfriend:_
 
 ## Stats
 
