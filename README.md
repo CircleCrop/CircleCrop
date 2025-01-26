@@ -18,6 +18,6 @@
 
 ## _Current Focus_
 
-- 🎮 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-006C8E?style=flat&logo=unrealengine&logoColor=white)
-- 📚 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)    ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- 🎥 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+- 🎮&ensp;![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-006C8E?style=flat&logo=unrealengine&logoColor=white)
+- 📚&ensp;![C#](https://custom-icon-badges.demolab.com/badge/-C%23-%23239120.svg?logo=cshrp&logoColor=white)&ensp;![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)&ensp;![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🎥&ensp;![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
