@@ -6,8 +6,6 @@
 
 三流大学学生，正在转型。
 
-## _Girlfriend_&ensp;[...](https://aiccrop.com/redirect/sa8x)
-
 ## _Stats_
 
 ![CircleCrop's Github Stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent)
