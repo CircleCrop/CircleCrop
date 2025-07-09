@@ -1,14 +1,14 @@
-# 👋 你好 / Hi / こんにちは！
+# 👋 Circle Crop / クロップ
 
->_いつか海になって空になって人になっていく、_
+> _いつか海になって空になって人になっていく、_
 >
->_25時の情熱も恋しくなる日が来る。_
+> _25時の情熱も恋しくなる日が来る。_
 
-三流大学学生，正在转型。
+#### _Third-rate university student, currently transforming._
 
 ## _Stats_
 
-![CircleCrop's Github Stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent)
+[![CircleCrop's Github Stats](https://github-readme-stats.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent)](https://github.com/CircleCrop)
 
 ## _Tools_
 
@@ -16,6 +16,13 @@
 
 ## _Current Focus_
 
-- 🎮&ensp;![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-006C8E?style=flat&logo=unrealengine&logoColor=white)
-- 📚&ensp;![C#](https://custom-icon-badges.demolab.com/badge/-C%23-%23239120.svg?logo=cshrp&logoColor=white)&ensp;![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)&ensp;![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- 🎥&ensp;![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+- 📚&ensp; Japanese Learning
+- ✈️&ensp;Study Overseas
+- 📐&ensp; Blender
+- 🎨&ensp; After Effects
+- 📸&ensp; Photography / 写真
+
+## _Reach Out_
+
+- _Blog_:&ensp;[aiccrop.com](https://aiccrop.com)  
+- _Mail_:&ensp;[Contact-GitHub@aiccrop.com](mailto:contact-github@aiccrop.com)
