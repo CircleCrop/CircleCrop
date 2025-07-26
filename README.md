@@ -25,4 +25,4 @@
 ## _Reach Out_
 
 - _Blog_:&ensp;[aiccrop.com](https://aiccrop.com)  
-- _Mail_:&ensp;[Contact-GitHub@aiccrop.com](mailto:contact-github@aiccrop.com)
+- _Mail_:&ensp;[contact.github@aiccrop.com](mailto:contact-github@aiccrop.com)
