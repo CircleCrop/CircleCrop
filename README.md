@@ -24,5 +24,6 @@
 
 ## _Reach Out_
 
-- _Blog_:&ensp;[aiccrop.com](https://aiccrop.com)  
+- _Blog_:&ensp;[aiccrop.com](https://aiccrop.com)
+- _Blog (Japanese, In Developing)_:&ensp;[kuroppu.blog](https://kuroppu.blog)  
 - _Mail_:&ensp;[contact.github@aiccrop.com](mailto:contact-github@aiccrop.com)
