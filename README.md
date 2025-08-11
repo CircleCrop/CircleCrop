@@ -1,4 +1,4 @@
-# 👋 Circle Crop / ころっぷ
+# 👋 Circle Crop / ころっぷ さーくる
 
 > _いつか海になって空になって人になっていく、_
 >
@@ -14,16 +14,16 @@
 
 ## _Current Focus_
 
-- 📚&ensp; Japanese Learning
-- ✈️&ensp;Study Overseas
-- 📐&ensp; Blender
-- 🎨&ensp; After Effects
-- 📸&ensp; Photography / 写真
+- Japanese Learning 📚
+- Study Overseas ✈️
+- 3D 🧊
+- Animation 🎨
+- Photography / 写真 📸
 
 ## _Social_
 
 - _Blog (Chinese)_:&ensp;[aiccrop.com](https://aiccrop.com)
 - _Blog (Japanese)_:&ensp;[kuroppu.blog | In Developing](https://kuroppu.blog)
-- _X/Twitter_: [@KoroppuSakuru | 映像🎞️/写真📷/編集💻/大学生🏫](https://x.com/KoroppuSakuru)
 - _Mail_:&ensp;[contact.github@aiccrop.com](mailto:contact-github@aiccrop.com)
+
 
