@@ -8,8 +8,6 @@
 
 ![CircleCrop's Github Stats](https://github-readme-stats-fast.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent&number_format=long)
 
-![CircleCrop's WakaTime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=CircleCrop&langs_count=4&hide=Other&show_icons=true&card_width=467&display_format=percent&theme=transparent&text_bold=true)
-
 ![CircleCrop's WakaTime Heatmap](https://kuroppu.blog/cfworkers/wakatime2heatmap?theme=dark)
 
 ## _Tools_
@@ -29,6 +27,7 @@
 
 - _Blog (Chinese)_:&ensp;[aiccrop.com](https://aiccrop.com)
 - _Mail_:&ensp;[contact.github@aiccrop.com](mailto:contact-github@aiccrop.com)
+
 
 
 
