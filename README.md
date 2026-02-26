@@ -20,15 +20,16 @@
 
 - Japanese Learning 📚
 - Study Overseas ✈️
-- 3D 🧊
+- Rendering 💡
+- AI 🤖
 - Animation 🎨
 - Photography 📸
 
 ## _Social_
 
 - _Blog (Chinese)_:&ensp;[aiccrop.com](https://aiccrop.com)
-- _Blog (Japanese)_:&ensp;[kuroppu.blog | In Developing](https://kuroppu.blog)
 - _Mail_:&ensp;[contact.github@aiccrop.com](mailto:contact-github@aiccrop.com)
+
 
 
 
