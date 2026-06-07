@@ -8,6 +8,8 @@
 
 ![CircleCrop's Github Stats](https://github-readme-stats-fast.vercel.app/api?username=CircleCrop&count_private=true&show_icons=true&theme=transparent&number_format=long)
 
+## _Computer Usage_
+
 ![CircleCrop's WakaTime Heatmap](https://kuroppu.blog/cfworkers/wakatime2heatmap?theme=dark)
 
 ## _Tools_
